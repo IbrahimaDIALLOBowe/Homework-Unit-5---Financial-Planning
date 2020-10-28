@@ -68,7 +68,7 @@ Hint: Be aware of the particular identifier for each cryptocurrency in the API J
 
 ## Collect Investments Data Using Alpaca: SPY (stocks) and AGG (bonds)
 
-##[Important]: Remember to create a .env file in your working directory to store the values of your Alpaca API key and Alpaca secret key.
+##|Important|: Remember to create a .env file in your working directory to store the values of your Alpaca API key and Alpaca secret key.
 
 1. Create two variables named my_agg and my_spy and set them equal to 200 and 50, respectively.
 
@@ -90,7 +90,7 @@ In this section, you will assess the financial health of the credit union's memb
 
 2. To analyze savings health, create a DataFrame called df_savings with two rows. Store the total value in dollars of the crypto assets in the first row and the total value of the shares in the second row.
 
-##[Hint]: The df_savings DataFrame should have one column named amount and two rows where crypto and shares are the index values:
+##|Hint|: The df_savings DataFrame should have one column named amount and two rows where crypto and shares are the index values:
 
 ![df_savings amount](image.jpg) df_savings
 
